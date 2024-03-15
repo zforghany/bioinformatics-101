@@ -26,7 +26,7 @@ Bioinformatics is an interdisciplinary field that combines biology, computer sci
 
 ## Contributors
 
-- [Zary Forghany](link to your profile)
+- [Zary Forghany](https://github.com/zforghany)
 
 Your contributions are greatly appreciated!
 
